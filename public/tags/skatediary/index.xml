@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkateDiary on STREET SIDE</title>
+    <link>//localhost:1313/tags/skatediary/</link>
+    <description>Recent content in SkateDiary on STREET SIDE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/skatediary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shred Diary</title>
+      <link>//localhost:1313/post/2024-06-09-shred-diary/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-06-09-shred-diary/</guid>
+      <description>What is it with that Mary girl? Dragging me to the skate park every day. As if I had a choice. What you don&amp;rsquo;t hear in those skate stories is that she leaves me behind if I don&amp;rsquo;t go to the park with her; it&amp;rsquo;s the only way I can keep skating! I&amp;rsquo;m thinking about joining Little Bo Peep&amp;rsquo;s crew—sure, I might get lost, but anything is better than being stuck with Mary and those little wannabe skaters at the park (kickflip, kickflip).</description>
+    </item>
+  </channel>
+</rss>
