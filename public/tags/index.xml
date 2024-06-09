@@ -2,52 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on STREET SIDE</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on STREET SIDE</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>//localhost:1313/tags/example/</link>
+      <title>ExistentialSkating</title>
+      <link>/tags/existentialskating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/example/</guid>
+      <guid>/tags/existentialskating/</guid>
       <description></description>
     </item>
     <item>
-      <title>Photoswipe</title>
-      <link>//localhost:1313/tags/photoswipe/</link>
+      <title>Mission</title>
+      <link>/tags/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/photoswipe/</guid>
+      <guid>/tags/mission/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bigimg</title>
-      <link>//localhost:1313/tags/bigimg/</link>
+      <title>Skate</title>
+      <link>/tags/skate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/bigimg/</guid>
+      <guid>/tags/skate/</guid>
       <description></description>
     </item>
     <item>
-      <title>Math</title>
-      <link>//localhost:1313/tags/math/</link>
+      <title>SkateDiary</title>
+      <link>/tags/skatediary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/math/</guid>
+      <guid>/tags/skatediary/</guid>
       <description></description>
     </item>
     <item>
-      <title>Code</title>
-      <link>//localhost:1313/tags/code/</link>
+      <title>SkateLife</title>
+      <link>/tags/skatelife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/code/</guid>
+      <guid>/tags/skatelife/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>//localhost:1313/tags/markdown/</link>
+      <title>SkatePhilosophy</title>
+      <link>/tags/skatephilosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/markdown/</guid>
+      <guid>/tags/skatephilosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FollowYourPath</title>
+      <link>/tags/followyourpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/followyourpath/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SkateLifestyle</title>
+      <link>/tags/skatelifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/skatelifestyle/</guid>
       <description></description>
     </item>
   </channel>

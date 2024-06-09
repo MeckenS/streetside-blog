@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skate on STREET SIDE</title>
-    <link>//localhost:1313/tags/skate/</link>
+    <link>/tags/skate/</link>
     <description>Recent content in Skate on STREET SIDE</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/skate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/skate/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Street Side&#39;s Mission</title>
-      <link>//localhost:1313/post/2024-06-09-streetside-mission/</link>
+      <title>Street Side Mission</title>
+      <link>/post/2024-06-09-streetside-mission/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024-06-09-streetside-mission/</guid>
+      <guid>/post/2024-06-09-streetside-mission/</guid>
       <description>Street Side Mission At Street Side, our mission is to celebrate and support the vibrant skateboarding culture by offering high-quality apparel that embodies the spirit of the streets. We believe that skateboarding is more than just a sport—it&amp;rsquo;s a lifestyle, an art form, and a community. Our goal is to provide skaters with gear that not only looks great but also performs under the toughest conditions. We are committed to sourcing sustainable materials and working with local artists to create unique, limited-edition designs that stand out in the skate park and on the streets.</description>
     </item>
   </channel>

@@ -1,7 +1,7 @@
 ---
 title: Skate it Till You Make It
 subtitle: Embracing Your Unique Path in Skateboarding
-date: 2015-02-26
+date: 2024-06-09
 tags: ["SkatePhilosophy", "FollowYourPath", "SkateLifestyle"]
 ---
 

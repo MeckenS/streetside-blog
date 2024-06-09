@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ExistentialSkating on STREET SIDE</title>
-    <link>//localhost:1313/tags/existentialskating/</link>
+    <link>/tags/existentialskating/</link>
     <description>Recent content in ExistentialSkating on STREET SIDE</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/existentialskating/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/existentialskating/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To Shred</title>
-      <link>//localhost:1313/post/2024-06-09-shred-or-not/</link>
+      <link>/post/2024-06-09-shred-or-not/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024-06-09-shred-or-not/</guid>
+      <guid>/post/2024-06-09-shred-or-not/</guid>
       <description>To shred, or not to shred—that is the question: Whether &amp;rsquo;tis nobler in the mind to suffer The slams and bruises of outrageous fortune Or to take arms against a sea of troubles And by skating end them. To fall, to rest— No more—and by a rest to say we end The heartache, and the thousand natural shocks That skating is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To fall, to rest— To rest—perchance to dream: ay, there&amp;rsquo;s the rub, For in that rest from skating what dreams may come When we have shuffled off this mortal coil, Must give us pause.</description>
     </item>
   </channel>

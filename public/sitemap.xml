@@ -2,70 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/tags/existentialskating/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/photoswipe/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/tags/mission/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2017-03-20-photoswipe-gallery-sample/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/post/2024-06-09-shred-diary/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>/tags/skate/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2017-03-07-bigimg-sample/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <loc>/tags/skatediary/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/bigimg/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <loc>/tags/skatelife/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/math/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <loc>/tags/skatephilosophy/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2017-03-05-math-sample/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <loc>/post/2024-06-09-streetside-mission/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/code/</loc>
-    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2016-03-08-code-sample/</loc>
-    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
+    <loc>/post/2024-06-09-shred-or-not/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2015-02-26-flake-it-till-you-make-it/</loc>
+    <loc>/tags/followyourpath/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/markdown/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+    <loc>/post/2024-06-09-skate-it-till-you-make-it/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2015-02-20-test-markdown/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+    <loc>/tags/skatelifestyle/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2015-02-13-hamlet-monologue/</loc>
-    <lastmod>2015-02-13T00:00:00+00:00</lastmod>
+    <loc>/page/about/</loc>
   </url><url>
-    <loc>//localhost:1313/post/2015-01-27-dear-diary/</loc>
-    <lastmod>2015-01-27T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/post/2015-01-19-soccer/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2015-01-15-pirates/</loc>
-    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2015-01-04-first-post/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/page/about/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/page/</loc>
+    <loc>/page/</loc>
   </url>
 </urlset>
