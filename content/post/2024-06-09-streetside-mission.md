@@ -1,6 +1,7 @@
 ---
 title: Street Side's Mission
 date: 2024-06-09
+tags: ["skate", "mission"]
 ---
 
 # Street Side Mission
