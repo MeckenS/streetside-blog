@@ -1,2 +1,2 @@
-## Cool content to talk about
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## Welcome to Street Side
+> **🛹 Ride with style, embrace the culture, and join the movement—Street Side: where skate meets fashion and community thrives.**
